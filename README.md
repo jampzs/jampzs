@@ -2,7 +2,7 @@
 
 ```diff
 Hi, I'm João Pedro 🇧🇷
-@@A villainous programer@@
+@@A villainous programmer@@
 
 I'm a fullstack developer at Gmaster! 
 - 22 years old
