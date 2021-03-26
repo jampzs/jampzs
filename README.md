@@ -2,9 +2,9 @@
 
 ```diff
 Hi, I'm João Pedro 🇧🇷
-@@A villainous programer :bomb:@@
+@@A villainous programer@@
 
 I'm a fullstack developer at Gmaster! 💻
 - 22 years old
-! 📖 Python :snake: and Typescript dev
+! 📖 Python and Typescript dev
 ```
