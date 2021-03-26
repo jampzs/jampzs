@@ -4,7 +4,8 @@
 Hi, I'm João Pedro 🇧🇷
 @@A villainous programer@@
 
-I'm a fullstack developer at Gmaster! 💻
+I'm a fullstack developer at Gmaster! 
 - 22 years old
-! 📖 Python and Typescript dev
+! 💻 Python and Typescript dev
+# 📖 Self taught programmer
 ```
