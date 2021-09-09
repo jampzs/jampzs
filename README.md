@@ -4,8 +4,8 @@
 Hi, I'm João Pedro 🇧🇷
 @@A villainous programmer@@
 
-I'm a fullstack developer at Gmaster! 
+I'm a fullstack developer at C&M Software! 
 - 22 years old
-! 💻 Python and Typescript dev
+! 💻 Python, Typescript and PHP dev
 # 📖 Self taught programmer
 ```
