@@ -1,11 +1,5 @@
 <img align="left" height="200" src="https://media.giphy.com/media/9uITwFum2zFg9fBHYU/giphy.gif"/>
 
-<div align="center">
-  <a href="https://github.com/jampzs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jampzs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jampzs&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 ```diff
 Hi, I'm João Pedro 🇧🇷
 @@A villainous programmer@@
@@ -15,7 +9,12 @@ I'm a fullstack developer at C&M Software!
 ! 💻 Python, Typescript and PHP dev
 # 📖 I also like to study Golang and some DevOps stuff
 ```
-=========================================================
+<div align="left">
+  <a href="https://github.com/jampzs">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jampzs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jampzs&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
