@@ -7,8 +7,6 @@ Hi, I'm João Pedro 🇧🇷
 I'm a backend developer at SCOD Brasil! 
 - 24 years old
 ! 💻 Software development and DevOps are my favorite topics in Tech.
-# 📖 I am interested in all kinds of projects related
-     to web development and process automation using technologies
-     related to Python, TypeScript/JavaScript, GoLang, AWS and DevOps.
+# 📖 Python, TypeScript/JavaScript, GoLang, AWS and DevOps.
 ```
  
