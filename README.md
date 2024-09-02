@@ -4,9 +4,10 @@
 Hi, I'm João Pedro 🇧🇷
 @@A villainous programmer@@
 
-I'm a backend developer at SCOD Brasil! 
-- 24 years old
-! 💻 Software development and DevOps are my favorite topics in Tech.
+I'm a software engineer at Techsocial! 
+- 25 years old
+! 💻 Mostly I work with NodeJS and Python, but also do stuff with
+PHP and Golang.
 # 📖 Python, TypeScript/JavaScript, GoLang, AWS and DevOps.
 ```
  
